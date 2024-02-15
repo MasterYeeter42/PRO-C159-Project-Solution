@@ -9,31 +9,31 @@ AFRAME.registerComponent("info-banner", {
     postersInfo = {
       superman: {
         banner_url: "./assets/posters/superman-banner.jpg",
-        title: "Superman",
-        released_year: "1983",
+        title: "VOL 1",
+        released_year: "2016",
         description:
-          "Superman is an ongoing American comic book series featuring the DC Comics superhero Superman as its main protagonist. Superman began as one of several anthology features in the National Periodical Publications comic book Action Comics in June 1938. The strip proved so popular that National launched Superman into his own self-titled comic book, the first for any superhero, premiering with the cover date Summer 1939.",
+          "In Taisho-era Japan, kindhearted Tanjiro Kamado makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family. His little sister Nezuko is the only survivor, but she has been transformed into a demon herself!",
       },
       spiderman: {
         banner_url: "./assets/posters/spiderman-banner.png",
-        title: "Spiderman",
-        released_year: "1962",
+        title: "VOL 2",
+        released_year: "2016",
         description:
-          "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy (Aug. 1962) in the Silver Age of Comic Books.",
+          "During final selection for the Demon Slayer Corps, Tanjiro faces a disfigured demon and uses the techniques taught by his master, Urokodaki!"
       },
       "captain-aero": {
         banner_url: "./assets/posters/captain-aero-banner.jpg",
-        title: "Captain Aero",
-        released_year: "1942",
+        title: "VOL 3",
+        released_year: "2016",
         description:
-          "Captain Aero Comics is a comic book from the Golden Age of Comics, originally published by Helnit Publishing and acquired by Holyoke Publishing in 1942. Issue was published in December 1941, and it ran through issue (August 1946).",
+          "Tanjiro and Nezuko cross paths with two powerful demons who fight with magical weapons. Even help from Tamayo and Yushiro may not be enough to defeat these demons who claim to belong to the Twelve Kizuki that directly serve Kibutsuji, the demon responsible for all of Tanjiro's woes! But if these demons can be defeated, what secrets can they reveal about Kibutsuji?",
       },
       "outer-space": {
         banner_url: "./assets/posters/outer-space-banner.jpg",
-        title: "Outer Space",
-        released_year: "1952",
+        title: "VOL 4",
+        released_year: "2016",
         description:
-          "This is the most vital subject of our times! Every American Man... and Woman... Child... owes it to his country and himself, to read this issue!!",
+          "After a fierce battle with a demon inside a maddening house of ever-changing rooms, Tanjiro has a chance to find out about the fighter in the boar-head mask. Who is this passionate swordsman and what does he want? Later, a new mission has Tanjiro and his compatriots heading for Mt. Natagumo and a confrontation with a mysterious and horrifying threat...",
       },
     };
     const { itemId } = this.data;
